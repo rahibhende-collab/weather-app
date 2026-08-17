@@ -29,43 +29,14 @@ Weather-App/
 └── README.md
 ```
 
-## ⚙️ Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/weather-app.git
-```
-
-2. Open the project folder:
-
-```bash
-cd weather-app
-```
-
-3. Install the required library:
-
-```bash
-pip install requests
-```
-
-4. Add your Weather API key in the Python file.
-
-5. Run the application:
-
-```bash
-python weather_app.py
-```
-
 ## 🔑 API
 
 This project uses a weather API to retrieve real-time weather information.
 
-Replace the API key with your own key before running the application.
 
 ## 👨‍💻 Author
 
-**Suresh**
+**Rahi Bhende**
 
 MCA Student | Python Developer | Java Full Stack Developer
 
