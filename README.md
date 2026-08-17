@@ -15,9 +15,7 @@ A simple **Weather App built with Python** that fetches and displays weather inf
 ## 🛠️ Technologies Used
 
 * **Python**
-* **Requests** – For API requests
-* **Tkinter** – For the graphical user interface
-* **JSON** – For processing API responses
+* **Requests** – For API request
 
 ## 📂 Project Structure
 
