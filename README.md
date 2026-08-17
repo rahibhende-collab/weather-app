@@ -17,6 +17,7 @@ A simple **Weather App built with Python** that fetches and displays weather inf
 * **Python**
 * **Requests** – For API request
 * **Streamlit** - Python library used to create web applications directly from Python code
+* ** dotenv** - Python library used to store and load environment variables, especially sensitive information like API keys, passwords, and database credentials.
 
 ## 📂 Project Structure
 
