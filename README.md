@@ -16,6 +16,7 @@ A simple **Weather App built with Python** that fetches and displays weather inf
 
 * **Python**
 * **Requests** – For API request
+* **Streamlit** - Python library used to create web applications directly from Python code
 
 ## 📂 Project Structure
 
